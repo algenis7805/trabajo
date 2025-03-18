@@ -22,7 +22,7 @@ img {
     margin: 0 auto;
 }
 .header {
-    background-color: red;
+    background-color: #D4F6FF;
     display: flex;
     align-items: center;
     min-height: 70vh;
@@ -301,7 +301,7 @@ input {
 
 .footer {
     padding: 50px 0;
-    background-color: red;
+    background-color: #D4F6FF;
 }
 
 .footer-content {
